@@ -1,4 +1,4 @@
-# fluwy
+# flu_utils
 
 A new Flutter package.
 
