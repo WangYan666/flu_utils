@@ -1,8 +1,8 @@
 name: flu_utils
 description: A new Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: WY <i@wangyan.dev>
+homepage: https://github.com/WangYan666/flu_utils
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
